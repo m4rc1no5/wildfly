@@ -1,6 +1,8 @@
 # WildFly with pl_PL
 
-https://cloud.docker.com/repository/docker/m4rc1no5/wildfly
+Docker image with WildFly 15.0.1.Final and OpenJDK 11.
+
+Docker Hub: https://cloud.docker.com/repository/docker/m4rc1no5/wildfly
 
 Create build for Docker Hub
 ---------------------------
