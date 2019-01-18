@@ -1,6 +1,6 @@
 # WildFly with pl_PL
 
-Docker image with WildFly 15.0.1.Final and OpenJDK 11.
+Docker image with WildFly 15.0.1.Final, OpenJDK 11, pl_PL, localtime Warsaw and UTF-8.
 
 Docker Hub: https://cloud.docker.com/repository/docker/m4rc1no5/wildfly
 
