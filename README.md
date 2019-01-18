@@ -1,4 +1,4 @@
-# WildFly z pl_PL
+# WildFly with pl_PL
 
 https://cloud.docker.com/repository/docker/m4rc1no5/wildfly
 
